@@ -1,8 +1,9 @@
 # GS de Inteligência Artificial
 
-*Autores:* Gabriel Felipe De Maria
-         Caio Manoel Bezerra de Araujo
-         Lucas Ferraz Martins
+*Autores:* 
+- Gabriel Felipe De Maria
+- Caio Manoel Bezerra de Araujo
+- Lucas Ferraz Martins
 
 # Descrição do Problema
 
